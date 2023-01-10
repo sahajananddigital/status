@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 150,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clearbookskpo.com.ico",
     "slug": "clear-books-kpo",
     "status": "down",
-    "uptime": "4.25%",
-    "uptimeDay": "4.25%",
-    "uptimeWeek": "4.25%",
-    "uptimeMonth": "4.25%",
-    "uptimeYear": "4.25%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 70
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3743,
-    "timeDay": 3743,
-    "timeWeek": 3743,
-    "timeMonth": 3743,
-    "timeYear": 3743,
+    "time": 3754,
+    "timeDay": 3754,
+    "timeWeek": 3754,
+    "timeMonth": 3754,
+    "timeYear": 3754,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 2474,
+    "timeDay": 2474,
+    "timeWeek": 2474,
+    "timeMonth": 2474,
+    "timeYear": 2474,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2223,
-    "timeDay": 2223,
-    "timeWeek": 2223,
-    "timeMonth": 2223,
-    "timeYear": 2223,
+    "time": 2152,
+    "timeDay": 2152,
+    "timeWeek": 2152,
+    "timeMonth": 2152,
+    "timeYear": 2152,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2119,
-    "timeDay": 2119,
-    "timeWeek": 2119,
-    "timeMonth": 2119,
-    "timeYear": 2119,
+    "time": 2052,
+    "timeDay": 2052,
+    "timeWeek": 2052,
+    "timeMonth": 2052,
+    "timeYear": 2052,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2064,
-    "timeDay": 2064,
-    "timeWeek": 2064,
-    "timeMonth": 2064,
-    "timeYear": 2064,
+    "time": 1468,
+    "timeDay": 1468,
+    "timeWeek": 1468,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {}
   }
 ]
