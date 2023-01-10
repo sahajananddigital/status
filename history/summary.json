@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 625
+      "2023-01-10": 636
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://evonceramics.com",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-stone-ceramics",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2474,
-    "timeDay": 2474,
-    "timeWeek": 2474,
-    "timeMonth": 2474,
-    "timeYear": 2474,
+    "status": "up",
+    "uptime": "98.12%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
+    "time": 1802,
+    "timeDay": 1802,
+    "timeWeek": 1802,
+    "timeMonth": 1802,
+    "timeYear": 1802,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 12
     }
   },
   {
