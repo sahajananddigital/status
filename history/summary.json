@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clearbookskpo.com.ico",
     "slug": "clear-books-kpo",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 70
+      "2023-01-10": 625
     }
   },
   {
@@ -78,18 +78,20 @@
     "url": "https://evonceramics.com",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-stone-ceramics",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2474,
     "timeDay": 2474,
     "timeWeek": 2474,
     "timeMonth": 2474,
     "timeYear": 2474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "Trovalabels",
