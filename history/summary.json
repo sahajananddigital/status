@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 43,
+      "2023-01-25": 510,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -133,9 +133,9 @@
     "url": "https://ienergypl.com",
     "icon": "https://icons.duckduckgo.com/ip3/ienergypl.com.ico",
     "slug": "i-energy-pharmacophore-llp-samir-savaliya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 1912,
     "timeMonth": 1939,
     "timeYear": 1939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Bhgavati Generators",
