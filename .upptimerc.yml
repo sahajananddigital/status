@@ -19,6 +19,8 @@ sites:
     url: https://ienergypl.com
   - name: Bhgavati Generators
     url: https://bhagvatigenerators.com
+  - name: Evvara Canada
+    url: https://evvara.ca
 
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
