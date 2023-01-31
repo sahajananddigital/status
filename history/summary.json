@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 47,
+      "2023-01-31": 570,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -81,10 +81,10 @@
     "url": "https://aquafinestro.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquafinestro.com.ico",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3539,
@@ -92,7 +92,9 @@
     "timeWeek": 3064,
     "timeMonth": 3539,
     "timeYear": 3539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 1
+    }
   },
   {
     "name": "Evon Stone Ceramics",
@@ -100,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-stone-ceramics",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 964,
     "timeDay": 328,
     "timeWeek": 917,
@@ -121,10 +123,10 @@
     "url": "https://trovalabels.com",
     "icon": "https://icons.duckduckgo.com/ip3/trovalabels.com.ico",
     "slug": "trovalabels",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2194,
@@ -132,7 +134,9 @@
     "timeWeek": 2049,
     "timeMonth": 2194,
     "timeYear": 2194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 1
+    }
   },
   {
     "name": "I Energy Pharmacophore LLP ( Samir Savaliya )",
@@ -177,9 +181,9 @@
     "url": "https://evvara.ca",
     "icon": "https://icons.duckduckgo.com/ip3/evvara.ca.ico",
     "slug": "evvara-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -188,6 +192,8 @@
     "timeWeek": 2208,
     "timeMonth": 2208,
     "timeYear": 2208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   }
 ]
