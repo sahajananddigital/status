@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 570,
+      "2023-01-31": 577,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -81,19 +81,19 @@
     "url": "https://aquafinestro.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquafinestro.com.ico",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3539,
-    "timeDay": 3650,
-    "timeWeek": 3064,
-    "timeMonth": 3539,
-    "timeYear": 3539,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3551,
+    "timeDay": 3750,
+    "timeWeek": 3152,
+    "timeMonth": 3551,
+    "timeYear": 3551,
     "dailyMinutesDown": {
-      "2023-01-31": 1
+      "2023-01-31": 8
     }
   },
   {
@@ -123,19 +123,19 @@
     "url": "https://trovalabels.com",
     "icon": "https://icons.duckduckgo.com/ip3/trovalabels.com.ico",
     "slug": "trovalabels",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2194,
-    "timeDay": 2335,
-    "timeWeek": 2049,
+    "timeDay": 2260,
+    "timeWeek": 2064,
     "timeMonth": 2194,
     "timeYear": 2194,
     "dailyMinutesDown": {
-      "2023-01-31": 1
+      "2023-01-31": 8
     }
   },
   {
@@ -181,19 +181,19 @@
     "url": "https://evvara.ca",
     "icon": "https://icons.duckduckgo.com/ip3/evvara.ca.ico",
     "slug": "evvara-canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2208,
-    "timeDay": 3211,
-    "timeWeek": 2208,
-    "timeMonth": 2208,
-    "timeYear": 2208,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1844,
+    "timeDay": 1798,
+    "timeWeek": 1844,
+    "timeMonth": 1844,
+    "timeYear": 1844,
     "dailyMinutesDown": {
-      "2023-01-31": 0
+      "2023-01-31": 7
     }
   }
 ]
