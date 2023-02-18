@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 943,
+      "2023-02-18": 950,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -99,10 +99,10 @@
     "url": "https://aquafinestro.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquafinestro.com.ico",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.88%",
     "time": 4441,
@@ -111,7 +111,7 @@
     "timeMonth": 4596,
     "timeYear": 4441,
     "dailyMinutesDown": {
-      "2023-02-18": 62,
+      "2023-02-18": 63,
       "2023-01-31": 8
     }
   },
@@ -148,10 +148,10 @@
     "url": "https://trovalabels.com",
     "icon": "https://icons.duckduckgo.com/ip3/trovalabels.com.ico",
     "slug": "trovalabels",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 2258,
@@ -160,7 +160,7 @@
     "timeMonth": 2241,
     "timeYear": 2258,
     "dailyMinutesDown": {
-      "2023-02-18": 22,
+      "2023-02-18": 23,
       "2023-02-02": 8,
       "2023-01-31": 8
     }
@@ -209,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/evvara.ca.ico",
     "slug": "evvara-canada",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.88%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 853,
     "timeDay": 1424,
     "timeWeek": 713,
     "timeMonth": 853,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2023-02-18": 21,
+      "2023-02-18": 29,
       "2023-01-31": 7
     }
   }
