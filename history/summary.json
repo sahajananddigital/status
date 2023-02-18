@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 45,
+      "2023-02-18": 470,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -99,10 +99,10 @@
     "url": "https://aquafinestro.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquafinestro.com.ico",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 3722,
@@ -111,6 +111,7 @@
     "timeMonth": 3692,
     "timeYear": 3722,
     "dailyMinutesDown": {
+      "2023-02-18": 1,
       "2023-01-31": 8
     }
   },
@@ -147,10 +148,10 @@
     "url": "https://trovalabels.com",
     "icon": "https://icons.duckduckgo.com/ip3/trovalabels.com.ico",
     "slug": "trovalabels",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2241,
@@ -159,6 +160,7 @@
     "timeMonth": 2218,
     "timeYear": 2241,
     "dailyMinutesDown": {
+      "2023-02-18": 1,
       "2023-02-02": 8,
       "2023-01-31": 8
     }
@@ -206,9 +208,9 @@
     "url": "https://evvara.ca",
     "icon": "https://icons.duckduckgo.com/ip3/evvara.ca.ico",
     "slug": "evvara-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -218,6 +220,7 @@
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2023-02-18": 0,
       "2023-01-31": 7
     }
   }
