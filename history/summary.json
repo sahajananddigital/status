@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 909,
+      "2023-02-18": 926,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -99,10 +99,10 @@
     "url": "https://aquafinestro.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquafinestro.com.ico",
     "slug": "aquafinest-ro-gajanan-praskar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 4283,
@@ -111,7 +111,7 @@
     "timeMonth": 4402,
     "timeYear": 4283,
     "dailyMinutesDown": {
-      "2023-02-18": 54,
+      "2023-02-18": 56,
       "2023-01-31": 8
     }
   },
