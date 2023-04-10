@@ -28,7 +28,7 @@ sites:
   - name: Geekey Consumer ( Piyush )
     url: https://geekyconsumer.com
   - name: Shrihari Charitra
-    url: https://shriharicharitra.com/
+    url: https://shriharicharitra.com
 
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
