@@ -21,6 +21,14 @@ sites:
     url: https://bhagvatigenerators.com
   - name: Evvara Canada
     url: https://evvara.ca
+  - name: Sahajanand Projects
+    url: https://projects.sahajananddigital.in
+  - name: Vedik Gurukulam
+    url: https://vedikgurukulam.org
+  - name: Geekey Consumer ( Piyush )
+    url: https://geekyconsumer.com
+  - name: Shrihari Charitra
+    url: https://shriharicharitra.com/
 
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
