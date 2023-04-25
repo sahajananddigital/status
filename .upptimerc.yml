@@ -29,8 +29,6 @@ sites:
     url: https://geekyconsumer.com
   - name: Shrihari Charitra
     url: https://shriharicharitra.com
-  - name: Samvedna Trust
-    url: https://samvednatrust.org/  
     
 
 assignees: # Users to assign downtime issues (optional)
