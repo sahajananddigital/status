@@ -27,6 +27,8 @@ sites:
     url: https://shriharicharitra.com
   - name: Harshi Impex
     url: https://www.harshiimpex.com
+  - name: Nano Polycoat
+    url: https://nanopolycoat.com
     
 
 assignees: # Users to assign downtime issues (optional)
