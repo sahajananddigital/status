@@ -23,16 +23,18 @@ sites:
     url: https://vedikgurukulam.org
   - name: Sidhhatva Accountants LLP
     url: https://siddhatvaaccountants.com
-  - name: Geekey Consumer ( Piyush )
-    url: https://geekyconsumer.com
+  - name: Installdotsh.com ( Piyush Banugariya )
+    url: https://installdotsh.com
   - name: Shrihari Charitra
     url: https://shriharicharitra.com
   - name: Harshi Impex
     url: https://www.harshiimpex.com
   - name: Nano Polycoat
     url: https://nanopolycoat.com
+  - name: Harikrusna International
+    url: https://shreeharikrushnaintl.com
     
-
+    
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
 
