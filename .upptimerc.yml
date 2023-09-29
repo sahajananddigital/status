@@ -33,6 +33,8 @@ sites:
     url: https://nanopolycoat.com
   - name: Harikrusna International
     url: https://shreeharikrushnaintl.com
+  - name: codecurateurs.com ( Achal )
+    url: https://codecurateurs.com
     
     
 assignees: # Users to assign downtime issues (optional)
