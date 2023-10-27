@@ -11,10 +11,10 @@ sites:
     url: https://aquafinestro.com
   - name: Evon Stone Ceramics
     url: https://evonceramics.com
+  - name: Evon Stone Ceramics
+    url: https://evonstone.com
   - name: I Energy Pharmacophore LLP ( Samir Savaliya )
     url: https://ienergypl.com
-  - name: Bhgavati Generators
-    url: https://bhagvatigenerators.com
   - name: Evvara Canada
     url: https://evvara.ca
   - name: Sahajanand Projects
@@ -35,7 +35,8 @@ sites:
     url: https://shreeharikrushnaintl.com
   - name: codecurateurs.com ( Achal )
     url: https://codecurateurs.com
-    
+  - name: finepitchtech.com ( Sanjaybhai Hirani )
+    url: https://finepitchtech.com
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
