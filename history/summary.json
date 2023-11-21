@@ -87,16 +87,17 @@
     "slug": "evon-stone-ceramics",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 3088,
-    "timeDay": 493,
-    "timeWeek": 531,
-    "timeMonth": 615,
-    "timeYear": 3088,
+    "time": 3085,
+    "timeDay": 475,
+    "timeWeek": 524,
+    "timeMonth": 612,
+    "timeYear": 3085,
     "dailyMinutesDown": {
+      "2023-11-21": 0,
       "2023-09-23": 16,
       "2023-09-15": 17,
       "2023-07-24": 69,
@@ -125,8 +126,7 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71,
-      "2023-04-07": 8
+      "2023-04-09": 71
     }
   },
   {
@@ -136,16 +136,17 @@
     "slug": "evon-stone-ceramics",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 3088,
-    "timeDay": 493,
-    "timeWeek": 531,
-    "timeMonth": 615,
-    "timeYear": 3088,
+    "time": 3085,
+    "timeDay": 475,
+    "timeWeek": 524,
+    "timeMonth": 612,
+    "timeYear": 3085,
     "dailyMinutesDown": {
+      "2023-11-21": 0,
       "2023-09-23": 16,
       "2023-09-15": 17,
       "2023-07-24": 69,
@@ -174,8 +175,7 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71,
-      "2023-04-07": 8
+      "2023-04-09": 71
     }
   },
   {
