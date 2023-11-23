@@ -97,7 +97,6 @@
     "timeMonth": 627,
     "timeYear": 3064,
     "dailyMinutesDown": {
-      "2023-11-23": 0,
       "2023-09-23": 16,
       "2023-09-15": 17,
       "2023-07-24": 69,
@@ -126,7 +125,8 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71
+      "2023-04-09": 71,
+      "2023-04-07": 8
     }
   },
   {
@@ -146,7 +146,6 @@
     "timeMonth": 627,
     "timeYear": 3064,
     "dailyMinutesDown": {
-      "2023-11-23": 0,
       "2023-09-23": 16,
       "2023-09-15": 17,
       "2023-07-24": 69,
@@ -175,7 +174,8 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71
+      "2023-04-09": 71,
+      "2023-04-07": 8
     }
   },
   {
@@ -388,10 +388,10 @@
     "url": "https://shreeharikrushnaintl.com",
     "icon": "https://icons.duckduckgo.com/ip3/shreeharikrushnaintl.com.ico",
     "slug": "harikrusna-international",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.85%",
     "time": 1939,
@@ -400,6 +400,7 @@
     "timeMonth": 2004,
     "timeYear": 1939,
     "dailyMinutesDown": {
+      "2023-11-23": 1,
       "2023-11-15": 126,
       "2023-11-14": 26
     }
