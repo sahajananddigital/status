@@ -15,8 +15,6 @@ sites:
     url: https://evonstone.com
   - name: I Energy Pharmacophore LLP ( Samir Savaliya )
     url: https://ienergypl.com
-  - name: Evvara Canada
-    url: https://evvara.ca
   - name: Sahajanand Projects
     url: https://projects.sahajananddigital.in
   - name: Vedik Gurukulam
@@ -37,6 +35,9 @@ sites:
     url: https://codecurateurs.com
   - name: finepitchtech.com ( Sanjaybhai Hirani )
     url: https://finepitchtech.com
+  - name: Advance Dye Chem
+    url: https://advancedyechem.com
+    
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
