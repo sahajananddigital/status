@@ -377,19 +377,19 @@
     "url": "https://codecurateurs.com",
     "icon": "https://icons.duckduckgo.com/ip3/codecurateurs.com.ico",
     "slug": "codecurateurs-com-achal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 577,
-    "timeDay": 466,
-    "timeWeek": 681,
-    "timeMonth": 554,
+    "timeDay": 543,
+    "timeWeek": 674,
+    "timeMonth": 556,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-01-05": 1
+      "2024-01-05": 5
     }
   },
   {
