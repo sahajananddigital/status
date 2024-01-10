@@ -38,7 +38,6 @@ sites:
   - name: Advance Dye Chem
     url: https://advancedyechem.com
     
-    
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
 
