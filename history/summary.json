@@ -87,17 +87,17 @@
     "slug": "evon-stone-ceramics",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.64%",
-    "time": 2754,
-    "timeDay": 461,
-    "timeWeek": 617,
-    "timeMonth": 588,
-    "timeYear": 2760,
+    "time": 2748,
+    "timeDay": 385,
+    "timeWeek": 576,
+    "timeMonth": 579,
+    "timeYear": 2754,
     "dailyMinutesDown": {
-      "2024-01-11": 0,
+      "2024-01-11": 8,
       "2023-09-23": 16,
       "2023-09-15": 17,
       "2023-07-24": 69,
@@ -126,7 +126,7 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71
+      "2023-04-09": 49
     }
   },
   {
@@ -136,17 +136,17 @@
     "slug": "evon-stone-ceramics",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.64%",
-    "time": 2754,
-    "timeDay": 461,
-    "timeWeek": 617,
-    "timeMonth": 588,
-    "timeYear": 2760,
+    "time": 2748,
+    "timeDay": 385,
+    "timeWeek": 576,
+    "timeMonth": 579,
+    "timeYear": 2754,
     "dailyMinutesDown": {
-      "2024-01-11": 0,
+      "2024-01-11": 8,
       "2023-09-23": 16,
       "2023-09-15": 17,
       "2023-07-24": 69,
@@ -175,7 +175,7 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71
+      "2023-04-09": 49
     }
   },
   {
@@ -252,18 +252,19 @@
     "url": "https://siddhatvaaccountants.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhatvaaccountants.com.ico",
     "slug": "sidhhatva-accountants-llp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 575,
-    "timeDay": 608,
-    "timeWeek": 579,
-    "timeMonth": 540,
-    "timeYear": 575,
+    "time": 574,
+    "timeDay": 456,
+    "timeWeek": 551,
+    "timeMonth": 534,
+    "timeYear": 574,
     "dailyMinutesDown": {
+      "2024-01-11": 0,
       "2023-08-29": 208
     }
   },
@@ -292,9 +293,9 @@
     "slug": "shrihari-charitra",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 815,
     "timeDay": 755,
@@ -302,7 +303,7 @@
     "timeMonth": 527,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2024-01-11": 9,
+      "2024-01-11": 17,
       "2023-05-16": 17,
       "2023-04-20": 20
     }
@@ -314,9 +315,9 @@
     "slug": "harshi-impex",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.22%",
     "time": 1862,
     "timeDay": 845,
@@ -324,7 +325,7 @@
     "timeMonth": 1929,
     "timeYear": 1862,
     "dailyMinutesDown": {
-      "2024-01-11": 9,
+      "2024-01-11": 17,
       "2023-07-21": 270,
       "2023-07-20": 1440,
       "2023-07-19": 996,
@@ -338,9 +339,9 @@
     "slug": "nano-polycoat",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.77%",
     "time": 1201,
     "timeDay": 894,
@@ -348,7 +349,7 @@
     "timeMonth": 1398,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2024-01-11": 9,
+      "2024-01-11": 17,
       "2023-11-30": 542,
       "2023-10-30": 43
     }
@@ -360,9 +361,9 @@
     "slug": "harikrusna-international",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
     "time": 1755,
     "timeDay": 1172,
@@ -370,7 +371,7 @@
     "timeMonth": 1472,
     "timeYear": 1755,
     "dailyMinutesDown": {
-      "2024-01-11": 9,
+      "2024-01-11": 17,
       "2023-11-23": 189,
       "2023-11-15": 126,
       "2023-11-14": 26
@@ -400,18 +401,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/finepitchtech.com.ico",
     "slug": "finepitchtech-com-sanjaybhai-hirani",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1280,
     "timeDay": 1178,
     "timeWeek": 1359,
     "timeMonth": 1401,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-01-11": 9
+      "2024-01-11": 17
     }
   },
   {
@@ -420,18 +421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/advancedyechem.com.ico",
     "slug": "advance-dye-chem",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1149,
     "timeDay": 785,
     "timeWeek": 1099,
     "timeMonth": 1149,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2024-01-11": 9
+      "2024-01-11": 17
     }
   }
 ]
