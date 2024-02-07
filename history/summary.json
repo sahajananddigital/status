@@ -85,17 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-stone-ceramics",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.67%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.64%",
-    "time": 1881,
-    "timeDay": 903,
-    "timeWeek": 836,
-    "timeMonth": 818,
-    "timeYear": 1902,
+    "time": 1880,
+    "timeDay": 913,
+    "timeWeek": 838,
+    "timeMonth": 819,
+    "timeYear": 1901,
     "dailyMinutesDown": {
+      "2024-02-07": 0,
       "2024-01-11": 17,
       "2023-09-23": 16,
       "2023-09-15": 17,
@@ -125,7 +126,7 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71
+      "2023-04-09": 49
     }
   },
   {
@@ -134,17 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/evonstone.com.ico",
     "slug": "evon-stone-ceramics",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.67%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.64%",
-    "time": 1881,
-    "timeDay": 903,
-    "timeWeek": 836,
-    "timeMonth": 818,
-    "timeYear": 1902,
+    "time": 1880,
+    "timeDay": 913,
+    "timeWeek": 838,
+    "timeMonth": 819,
+    "timeYear": 1901,
     "dailyMinutesDown": {
+      "2024-02-07": 0,
       "2024-01-11": 17,
       "2023-09-23": 16,
       "2023-09-15": 17,
@@ -174,7 +176,7 @@
       "2023-04-13": 8,
       "2023-04-12": 16,
       "2023-04-10": 95,
-      "2023-04-09": 71
+      "2023-04-09": 49
     }
   },
   {
