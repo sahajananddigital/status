@@ -37,6 +37,12 @@ sites:
     url: https://finepitchtech.com
   - name: Advance Dye Chem
     url: https://advancedyechem.com
+  - name: LeosonPharma.com ( WalArt Pharma )
+    url: https://leosonpharma.com
+  - name: walartpharma.in ( WalArt Pharma )
+    url: https://walartpharma.in
+  - name: megmahealth.com ( WalArt Pharma )
+    url: https://megmahealth.com
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
