@@ -429,18 +429,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/walartpharma.in.ico",
     "slug": "walartpharma-in-wal-art-pharma",
     "status": "down",
-    "uptime": "97.88%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
+    "uptime": "28.38%",
+    "uptimeDay": "28.38%",
+    "uptimeWeek": "28.38%",
+    "uptimeMonth": "28.38%",
+    "uptimeYear": "28.38%",
     "time": 1252,
     "timeDay": 1252,
     "timeWeek": 1252,
     "timeMonth": 1252,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2024-02-18": 1
+      "2024-02-18": 64
     }
   },
   {
@@ -448,17 +448,19 @@
     "url": "https://megmahealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/megmahealth.com.ico",
     "slug": "megmahealth-com-wal-art-pharma",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 452,
     "timeDay": 452,
     "timeWeek": 452,
     "timeMonth": 452,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-18": 0
+    }
   }
 ]
