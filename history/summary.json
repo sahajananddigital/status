@@ -428,18 +428,20 @@
     "url": "https://walartpharma.in",
     "icon": "https://icons.duckduckgo.com/ip3/walartpharma.in.ico",
     "slug": "walartpharma-in-wal-art-pharma",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
     "time": 1252,
     "timeDay": 1252,
     "timeWeek": 1252,
     "timeMonth": 1252,
     "timeYear": 1252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-18": 1
+    }
   },
   {
     "name": "megmahealth.com ( WalArt Pharma )",
