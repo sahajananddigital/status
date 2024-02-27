@@ -161,7 +161,7 @@
     "time": 1647,
     "timeDay": 1971,
     "timeWeek": 2198,
-    "timeMonth": 2688,
+    "timeMonth": 2748,
     "timeYear": 1617,
     "dailyMinutesDown": {
       "2024-01-29": 27,
@@ -242,10 +242,10 @@
     "url": "https://installdotsh.com",
     "icon": "https://icons.duckduckgo.com/ip3/installdotsh.com.ico",
     "slug": "installdotsh-com-piyush-banugariya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
@@ -253,7 +253,9 @@
     "timeWeek": 361,
     "timeMonth": 387,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 1
+    }
   },
   {
     "name": "Shrihari Charitra",
@@ -429,11 +431,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/walartpharma.in.ico",
     "slug": "walartpharma-in-wal-art-pharma",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 426,
     "timeDay": 307,
     "timeWeek": 373,
