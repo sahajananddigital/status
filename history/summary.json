@@ -429,19 +429,19 @@
     "url": "https://megmahealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/megmahealth.com.ico",
     "slug": "megmahealth-com-wal-art-pharma",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 790,
-    "timeWeek": 1104,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1063,
+    "timeDay": 635,
+    "timeWeek": 1027,
+    "timeMonth": 1063,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 30
     }
   }
 ]
