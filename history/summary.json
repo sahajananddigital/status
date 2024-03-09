@@ -272,7 +272,7 @@
     "time": 1847,
     "timeDay": 2058,
     "timeWeek": 1743,
-    "timeMonth": 1767,
+    "timeMonth": 1810,
     "timeYear": 1847,
     "dailyMinutesDown": {
       "2024-01-11": 34,
@@ -287,19 +287,19 @@
     "url": "https://nanopolycoat.com",
     "icon": "https://icons.duckduckgo.com/ip3/nanopolycoat.com.ico",
     "slug": "nano-polycoat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "86.27%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "86.77%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.76%",
     "time": 1902,
     "timeDay": 12325,
     "timeWeek": 9319,
-    "timeMonth": 5076,
+    "timeMonth": 5259,
     "timeYear": 1902,
     "dailyMinutesDown": {
-      "2024-03-09": 71,
+      "2024-03-09": 63,
       "2024-03-08": 128,
       "2024-01-11": 34,
       "2023-11-30": 542,
@@ -320,7 +320,7 @@
     "time": 1600,
     "timeDay": 621,
     "timeWeek": 747,
-    "timeMonth": 1124,
+    "timeMonth": 1116,
     "timeYear": 1600,
     "dailyMinutesDown": {
       "2024-01-12": 19,
@@ -344,7 +344,7 @@
     "time": 597,
     "timeDay": 637,
     "timeWeek": 527,
-    "timeMonth": 641,
+    "timeMonth": 650,
     "timeYear": 597,
     "dailyMinutesDown": {}
   },
@@ -362,7 +362,7 @@
     "time": 1362,
     "timeDay": 619,
     "timeWeek": 520,
-    "timeMonth": 1369,
+    "timeMonth": 1394,
     "timeYear": 1362,
     "dailyMinutesDown": {
       "2024-01-11": 34
@@ -382,7 +382,7 @@
     "time": 1308,
     "timeDay": 1235,
     "timeWeek": 1569,
-    "timeMonth": 1442,
+    "timeMonth": 1489,
     "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-01-11": 34
