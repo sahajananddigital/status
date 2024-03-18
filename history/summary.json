@@ -391,19 +391,19 @@
     "url": "https://leosonpharma.com",
     "icon": "https://icons.duckduckgo.com/ip3/leosonpharma.com.ico",
     "slug": "leoson-pharma-com-wal-art-pharma",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1200,
-    "timeDay": 316,
-    "timeWeek": 763,
-    "timeMonth": 1225,
-    "timeYear": 1200,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "76.11%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 1177,
+    "timeDay": 362,
+    "timeWeek": 729,
+    "timeMonth": 1201,
+    "timeYear": 1177,
     "dailyMinutesDown": {
-      "2024-03-18": 1
+      "2024-03-18": 344
     }
   },
   {
