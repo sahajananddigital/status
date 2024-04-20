@@ -13,8 +13,6 @@ sites:
     url: https://evonceramics.com
   - name: Evon Stone
     url: https://evonstone.com
-  - name: I Energy Pharmacophore LLP ( Samir Savaliya )
-    url: https://ienergypl.com
   - name: Sahajanand Projects
     url: https://projects.sahajananddigital.in
   - name: Vedik Gurukulam
@@ -41,6 +39,8 @@ sites:
     url: https://walartpharma.in
   - name: megmahealth.com ( WalArt Pharma )
     url: https://megmahealth.com
+  - name: RelyCore Solutions
+    url: https://relycoresolutions.com  
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
