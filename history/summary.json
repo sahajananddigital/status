@@ -42,9 +42,9 @@
     "url": "https://evonceramics.com",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-stone-ceramics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
@@ -54,6 +54,7 @@
     "timeMonth": 2080,
     "timeYear": 975,
     "dailyMinutesDown": {
+      "2024-07-29": 0,
       "2024-07-26": 16,
       "2024-05-08": 24,
       "2024-05-07": 7,
@@ -222,7 +223,7 @@
     "time": 1105,
     "timeDay": 565,
     "timeWeek": 731,
-    "timeMonth": 647,
+    "timeMonth": 618,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2024-04-25": 17,
