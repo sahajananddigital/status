@@ -22,19 +22,19 @@
     "url": "https://aquapexro.in",
     "icon": "https://icons.duckduckgo.com/ip3/aquapexro.in.ico",
     "slug": "aquapex-ro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 155,
-    "timeWeek": 128,
-    "timeMonth": 146,
+    "timeDay": 126,
+    "timeWeek": 121,
+    "timeMonth": 144,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-09-14": 1
+      "2024-09-14": 16
     }
   },
   {
