@@ -52,7 +52,7 @@
     "timeDay": 1923,
     "timeWeek": 1850,
     "timeMonth": 1996,
-    "timeYear": 1042,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2024-07-26": 16,
       "2024-05-08": 24,
@@ -125,18 +125,19 @@
     "url": "https://siddhatvaaccountants.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhatvaaccountants.com.ico",
     "slug": "sidhhatva-accountants-llp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 403,
-    "timeWeek": 714,
-    "timeMonth": 612,
+    "timeDay": 395,
+    "timeWeek": 673,
+    "timeMonth": 605,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2024-09-16": 1,
       "2024-01-11": 17
     }
   },
@@ -252,18 +253,20 @@
     "url": "https://codecurateurs.com",
     "icon": "https://icons.duckduckgo.com/ip3/codecurateurs.com.ico",
     "slug": "codecurateurs-com-achal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 473,
-    "timeWeek": 482,
-    "timeMonth": 515,
+    "timeDay": 441,
+    "timeWeek": 473,
+    "timeMonth": 511,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 1
+    }
   },
   {
     "name": "finepitchtech.com ( Sanjaybhai Hirani )",
