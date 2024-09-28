@@ -42,7 +42,9 @@ sites:
   - name: Prevail Engineering
     url: https://prevailengg.com
   - name: Prasham Industries
-    url: https://prevailengg.com
+    url: https://prashamindustries.com
+  - name: Shiksha Skills Institute
+    url: http://shikshaskills.org.in
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
