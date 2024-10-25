@@ -433,10 +433,10 @@
     "url": "https://prashamindustries.com",
     "icon": "https://icons.duckduckgo.com/ip3/prashamindustries.com.ico",
     "slug": "prasham-industries",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.91%",
     "time": 648,
@@ -445,7 +445,7 @@
     "timeMonth": 788,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2024-10-25": 109
+      "2024-10-25": 110
     }
   },
   {
