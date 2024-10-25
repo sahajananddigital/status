@@ -214,12 +214,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.40%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.81%",
     "time": 1016,
     "timeDay": 404,
     "timeWeek": 485,
-    "timeMonth": 898,
+    "timeMonth": 884,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2024-10-23": 17,
@@ -433,10 +433,10 @@
     "url": "https://prashamindustries.com",
     "icon": "https://icons.duckduckgo.com/ip3/prashamindustries.com.ico",
     "slug": "prasham-industries",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
@@ -444,7 +444,9 @@
     "timeWeek": 909,
     "timeMonth": 779,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 1
+    }
   },
   {
     "name": "Shiksha Skills Institute",
