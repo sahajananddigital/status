@@ -433,19 +433,19 @@
     "url": "https://prashamindustries.com",
     "icon": "https://icons.duckduckgo.com/ip3/prashamindustries.com.ico",
     "slug": "prasham-industries",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.93%",
-    "time": 646,
-    "timeDay": 822,
-    "timeWeek": 875,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "92.49%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.91%",
+    "time": 648,
+    "timeDay": 818,
+    "timeWeek": 869,
     "timeMonth": 788,
-    "timeYear": 646,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2024-10-25": 87
+      "2024-10-25": 109
     }
   },
   {
