@@ -70,19 +70,19 @@
     "url": "https://evonstone.com",
     "icon": "https://icons.duckduckgo.com/ip3/evonstone.com.ico",
     "slug": "evon-stone",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 1430,
-    "timeWeek": 1183,
-    "timeMonth": 762,
-    "timeYear": 891,
+    "time": 890,
+    "timeDay": 1124,
+    "timeWeek": 1109,
+    "timeMonth": 755,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-26": 9
     }
   },
   {
