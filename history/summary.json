@@ -290,8 +290,8 @@
     "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.09%",
-    "uptimeMonth": "95.19%",
+    "uptimeWeek": "78.87%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "98.82%",
     "time": 580,
     "timeDay": 579,
@@ -299,7 +299,7 @@
     "timeMonth": 768,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-12-19": 1075,
+      "2024-12-19": 1097,
       "2024-12-18": 1033,
       "2024-09-20": 778,
       "2024-09-19": 1440,
@@ -312,10 +312,10 @@
     "url": "https://advancedyechem.com",
     "icon": "https://icons.duckduckgo.com/ip3/advancedyechem.com.ico",
     "slug": "advance-dye-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "47.33%",
-    "uptimeWeek": "90.70%",
+    "uptimeDay": "48.61%",
+    "uptimeWeek": "90.69%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "99.81%",
     "time": 1234,
@@ -324,7 +324,7 @@
     "timeMonth": 878,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-12-19": 632,
+      "2024-12-19": 633,
       "2024-12-18": 306,
       "2024-01-11": 34
     }
