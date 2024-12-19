@@ -14,7 +14,7 @@
     "timeDay": 112,
     "timeWeek": 181,
     "timeMonth": 204,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeDay": 3919,
     "timeWeek": 2829,
     "timeMonth": 2760,
-    "timeYear": 1209,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2024-10-29": 16,
       "2024-07-26": 16,
@@ -155,7 +155,7 @@
     "timeDay": 389,
     "timeWeek": 605,
     "timeMonth": 532,
-    "timeYear": 543,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2024-01-11": 33
     }
@@ -175,7 +175,7 @@
     "timeDay": 1452,
     "timeWeek": 1958,
     "timeMonth": 1921,
-    "timeYear": 1995,
+    "timeYear": 1996,
     "dailyMinutesDown": {
       "2024-01-11": 34
     }
@@ -290,16 +290,16 @@
     "status": "down",
     "uptime": "98.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.09%",
-    "uptimeMonth": "94.50%",
-    "uptimeYear": "98.77%",
+    "uptimeWeek": "75.90%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "98.76%",
     "time": 580,
     "timeDay": 579,
     "timeWeek": 632,
     "timeMonth": 768,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-12-19": 1378,
+      "2024-12-19": 1396,
       "2024-12-18": 1033,
       "2024-09-20": 778,
       "2024-09-19": 1440,
@@ -312,9 +312,9 @@
     "url": "https://advancedyechem.com",
     "icon": "https://icons.duckduckgo.com/ip3/advancedyechem.com.ico",
     "slug": "advance-dye-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "41.22%",
+    "uptimeDay": "41.18%",
     "uptimeWeek": "88.56%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "99.77%",
@@ -324,7 +324,7 @@
     "timeMonth": 901,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2024-12-19": 846,
+      "2024-12-19": 847,
       "2024-12-18": 306,
       "2024-01-11": 34
     }
