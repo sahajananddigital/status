@@ -158,19 +158,19 @@
     "url": "https://www.harshiimpex.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.harshiimpex.com.ico",
     "slug": "harshi-impex",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1999,
-    "timeDay": 1569,
-    "timeWeek": 1757,
-    "timeMonth": 1723,
-    "timeYear": 2029,
+    "time": 1997,
+    "timeDay": 1423,
+    "timeWeek": 1697,
+    "timeMonth": 1709,
+    "timeYear": 2027,
     "dailyMinutesDown": {
-      "2025-02-22": 1
+      "2025-02-22": 7
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 1002,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-02-22": 520,
+      "2025-02-22": 527,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
