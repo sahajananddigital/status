@@ -122,19 +122,19 @@
     "url": "https://siddhatvaaccountants.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhatvaaccountants.com.ico",
     "slug": "sidhhatva-accountants-llp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 651,
-    "timeWeek": 611,
-    "timeMonth": 694,
-    "timeYear": 604,
+    "time": 593,
+    "timeDay": 575,
+    "timeWeek": 597,
+    "timeMonth": 688,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-02-25": 1
+      "2025-02-25": 20
     }
   },
   {
@@ -299,7 +299,7 @@
     "timeMonth": 1067,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-02-25": 197,
+      "2025-02-25": 217,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
