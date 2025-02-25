@@ -122,10 +122,10 @@
     "url": "https://siddhatvaaccountants.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhatvaaccountants.com.ico",
     "slug": "sidhhatva-accountants-llp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
@@ -133,7 +133,9 @@
     "timeWeek": 611,
     "timeMonth": 694,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 1
+    }
   },
   {
     "name": "Shrihari Charitra",
@@ -286,18 +288,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codecurateurs.com.ico",
     "slug": "codecurateurs-com-achal",
     "status": "down",
-    "uptime": "86.10%",
+    "uptime": "86.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.39%",
+    "uptimeYear": "80.36%",
     "time": 626,
     "timeDay": 1374,
     "timeWeek": 1388,
     "timeMonth": 1067,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-02-25": 54,
+      "2025-02-25": 197,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
