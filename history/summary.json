@@ -163,7 +163,7 @@
     "slug": "harshi-impex",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "78.73%",
+    "uptimeDay": "79.32%",
     "uptimeWeek": "73.53%",
     "uptimeMonth": "93.85%",
     "uptimeYear": "99.49%",
@@ -313,7 +313,7 @@
     "timeMonth": 893,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2025-04-15": 1418,
+      "2025-04-15": 1426,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -537,11 +537,11 @@
     "url": "https://prevailengg.com",
     "icon": "https://icons.duckduckgo.com/ip3/prevailengg.com.ico",
     "slug": "prevail-engineering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 913,
     "timeDay": 1489,
@@ -549,7 +549,7 @@
     "timeMonth": 1178,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2025-04-15": 30
+      "2025-04-15": 20
     }
   },
   {
