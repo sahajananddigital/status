@@ -306,14 +306,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.62%",
+    "uptimeYear": "66.61%",
     "time": 669,
     "timeDay": 752,
     "timeWeek": 784,
     "timeMonth": 893,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2025-04-16": 408,
+      "2025-04-16": 471,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -538,9 +538,9 @@
     "url": "https://prevailengg.com",
     "icon": "https://icons.duckduckgo.com/ip3/prevailengg.com.ico",
     "slug": "prevail-engineering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "92.18%",
+    "uptimeDay": "92.13%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
@@ -550,7 +550,7 @@
     "timeMonth": 1226,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2025-04-16": 94,
+      "2025-04-16": 95,
       "2025-04-15": 19
     }
   },
