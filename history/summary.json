@@ -4,18 +4,20 @@
     "url": "https://sahajananddigital.in",
     "icon": "https://icons.duckduckgo.com/ip3/sahajananddigital.in.ico",
     "slug": "sahajananad-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 100,
-    "timeWeek": 307,
-    "timeMonth": 267,
-    "timeYear": 188,
-    "dailyMinutesDown": {}
+    "timeDay": 87,
+    "timeWeek": 278,
+    "timeMonth": 261,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "Aquapex Ro",
@@ -67,18 +69,19 @@
     "url": "https://evonstone.com",
     "icon": "https://icons.duckduckgo.com/ip3/evonstone.com.ico",
     "slug": "evon-stone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 753,
-    "timeDay": 1431,
-    "timeWeek": 644,
-    "timeMonth": 641,
-    "timeYear": 749,
+    "uptimeYear": "99.77%",
+    "time": 751,
+    "timeDay": 770,
+    "timeWeek": 577,
+    "timeMonth": 624,
+    "timeYear": 748,
     "dailyMinutesDown": {
+      "2025-04-28": 1,
       "2025-03-21": 563,
       "2025-03-20": 619
     }
@@ -318,7 +321,7 @@
     "timeMonth": 1002,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2025-04-28": 1428,
+      "2025-04-28": 1437,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -485,9 +488,9 @@
     "slug": "leoson-pharma-com-wal-art-pharma",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 438,
     "timeDay": 295,
@@ -495,7 +498,7 @@
     "timeMonth": 378,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-04-28": 1
+      "2025-04-28": 9
     }
   },
   {
