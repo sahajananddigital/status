@@ -328,7 +328,7 @@
     "timeMonth": 1177,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-05-06": 1194,
+      "2025-05-06": 1213,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -522,19 +522,19 @@
     "url": "https://walartpharma.in",
     "icon": "https://icons.duckduckgo.com/ip3/walartpharma.in.ico",
     "slug": "walartpharma-in-wal-art-pharma",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 366,
     "timeDay": 489,
-    "timeWeek": 410,
-    "timeMonth": 394,
-    "timeYear": 366,
+    "timeWeek": 418,
+    "timeMonth": 397,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-05-06": 39
+      "2025-05-06": 57
     }
   },
   {
