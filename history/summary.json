@@ -317,18 +317,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codecurateurs.com.ico",
     "slug": "codecurateurs-com-achal",
     "status": "down",
-    "uptime": "75.70%",
+    "uptime": "75.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.00%",
+    "uptimeYear": "60.99%",
     "time": 700,
     "timeDay": 1704,
     "timeWeek": 1655,
     "timeMonth": 1177,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-05-06": 1130,
+      "2025-05-06": 1194,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -522,9 +522,9 @@
     "url": "https://walartpharma.in",
     "icon": "https://icons.duckduckgo.com/ip3/walartpharma.in.ico",
     "slug": "walartpharma-in-wal-art-pharma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "97.31%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -534,7 +534,7 @@
     "timeMonth": 394,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-05-06": 38
+      "2025-05-06": 39
     }
   },
   {
