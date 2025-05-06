@@ -72,17 +72,17 @@
     "slug": "evon-stone",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.75%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 746,
     "timeDay": 770,
     "timeWeek": 589,
     "timeMonth": 576,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-05-06": 34,
+      "2025-05-06": 26,
       "2025-04-29": 74,
       "2025-04-28": 4,
       "2025-03-21": 563,
@@ -328,7 +328,7 @@
     "timeMonth": 1177,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-05-06": 1080,
+      "2025-05-06": 1114,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -522,10 +522,10 @@
     "url": "https://walartpharma.in",
     "icon": "https://icons.duckduckgo.com/ip3/walartpharma.in.ico",
     "slug": "walartpharma-in-wal-art-pharma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 365,
@@ -534,7 +534,7 @@
     "timeMonth": 389,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-05-06": 21
+      "2025-05-06": 22
     }
   },
   {
