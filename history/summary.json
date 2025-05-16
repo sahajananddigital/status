@@ -232,9 +232,9 @@
     "slug": "harikrusna-international",
     "status": "up",
     "uptime": "97.01%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "95.09%",
     "time": 812,
     "timeDay": 654,
@@ -242,7 +242,6 @@
     "timeMonth": 712,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2025-05-16": 10,
       "2025-04-26": 17,
       "2025-04-14": 29,
       "2025-04-09": 18,
@@ -327,14 +326,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.30%",
+    "uptimeYear": "58.29%",
     "time": 720,
     "timeDay": 1524,
     "timeWeek": 1533,
     "timeMonth": 1422,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-05-16": 949,
+      "2025-05-16": 983,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -580,10 +579,10 @@
     "url": "https://relycoresolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/relycoresolutions.com.ico",
     "slug": "rely-core-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1386,
@@ -591,7 +590,9 @@
     "timeWeek": 1143,
     "timeMonth": 1083,
     "timeYear": 1403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-16": 1
+    }
   },
   {
     "name": "Prevail Engineering",
