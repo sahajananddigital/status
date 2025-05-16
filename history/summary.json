@@ -333,7 +333,7 @@
     "timeMonth": 1422,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-05-16": 1140,
+      "2025-05-16": 1159,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -579,19 +579,19 @@
     "url": "https://relycoresolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/relycoresolutions.com.ico",
     "slug": "rely-core-solutions",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 1383,
     "timeDay": 1038,
     "timeWeek": 1085,
     "timeMonth": 1071,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2025-05-16": 30
+      "2025-05-16": 23
     }
   },
   {
