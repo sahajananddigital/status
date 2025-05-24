@@ -201,9 +201,9 @@
     "slug": "nano-polycoat",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "96.08%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.62%",
     "time": 1268,
     "timeDay": 1117,
@@ -211,7 +211,7 @@
     "timeMonth": 1150,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-05-24": 125,
+      "2025-05-24": 135,
       "2025-05-21": 100,
       "2025-05-20": 269,
       "2025-05-17": 231,
@@ -342,7 +342,7 @@
     "timeMonth": 1555,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-05-24": 1052,
+      "2025-05-24": 1062,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -662,19 +662,19 @@
     "url": "http://shikshaskills.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/shikshaskills.org.in.ico",
     "slug": "shiksha-skills-institute",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2344,
-    "timeDay": 2934,
-    "timeWeek": 3019,
-    "timeMonth": 2832,
-    "timeYear": 2344,
+    "time": 2346,
+    "timeDay": 2991,
+    "timeWeek": 3022,
+    "timeMonth": 2839,
+    "timeYear": 2346,
     "dailyMinutesDown": {
-      "2025-05-24": 1
+      "2025-05-24": 10
     }
   }
 ]
