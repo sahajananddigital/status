@@ -35,7 +35,7 @@
     "timeDay": 162,
     "timeWeek": 237,
     "timeMonth": 244,
-    "timeYear": 174,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2024-09-14": 16
     }
@@ -55,7 +55,7 @@
     "timeDay": 1875,
     "timeWeek": 2150,
     "timeMonth": 2146,
-    "timeYear": 2202,
+    "timeYear": 2203,
     "dailyMinutesDown": {
       "2025-04-17": 20,
       "2025-04-14": 21,
@@ -68,17 +68,17 @@
     "url": "https://evonstone.com",
     "icon": "https://icons.duckduckgo.com/ip3/evonstone.com.ico",
     "slug": "evon-stone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "83.51%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "83.49%",
+    "uptimeWeek": "96.61%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "99.54%",
     "time": 753,
     "timeDay": 495,
     "timeWeek": 775,
     "timeMonth": 760,
-    "timeYear": 726,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2025-05-27": 238,
       "2025-05-24": 104,
@@ -130,7 +130,7 @@
     "timeDay": 767,
     "timeWeek": 763,
     "timeMonth": 991,
-    "timeYear": 745,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   },
   {
@@ -148,7 +148,7 @@
     "timeDay": 574,
     "timeWeek": 909,
     "timeMonth": 1009,
-    "timeYear": 684,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2025-02-25": 20
     }
@@ -186,7 +186,7 @@
     "timeDay": 1249,
     "timeWeek": 1529,
     "timeMonth": 1671,
-    "timeYear": 2051,
+    "timeYear": 2053,
     "dailyMinutesDown": {
       "2025-04-17": 19,
       "2025-04-15": 284,
@@ -203,14 +203,14 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.53%",
+    "uptimeWeek": "95.74%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.59%",
     "time": 1263,
     "timeDay": 1047,
     "timeWeek": 1093,
     "timeMonth": 1147,
-    "timeYear": 954,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2025-05-24": 289,
       "2025-05-21": 100,
@@ -249,7 +249,7 @@
     "timeDay": 500,
     "timeWeek": 563,
     "timeMonth": 720,
-    "timeYear": 801,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2025-05-18": 16,
       "2025-04-26": 17,
@@ -341,9 +341,9 @@
     "timeDay": 925,
     "timeWeek": 1366,
     "timeMonth": 1506,
-    "timeYear": 785,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-05-27": 1378,
+      "2025-05-27": 1399,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
