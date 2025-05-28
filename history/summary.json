@@ -203,12 +203,12 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.74%",
+    "uptimeWeek": "97.13%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.59%",
     "time": 1263,
     "timeDay": 1034,
-    "timeWeek": 1086,
+    "timeWeek": 1099,
     "timeMonth": 1138,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -332,18 +332,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codecurateurs.com.ico",
     "slug": "codecurateurs-com-achal",
     "status": "down",
-    "uptime": "73.04%",
+    "uptime": "73.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.18%",
+    "uptimeYear": "55.13%",
     "time": 737,
     "timeDay": 996,
     "timeWeek": 1303,
     "timeMonth": 1487,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-05-28": 61,
+      "2025-05-28": 326,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -669,10 +669,10 @@
     "url": "http://shikshaskills.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/shikshaskills.org.in.ico",
     "slug": "shiksha-skills-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2361,
@@ -680,6 +680,8 @@
     "timeWeek": 3154,
     "timeMonth": 2884,
     "timeYear": 2361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 1
+    }
   }
 ]
