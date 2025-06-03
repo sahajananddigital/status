@@ -346,7 +346,7 @@
     "timeMonth": 1456,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2025-06-03": 700,
+      "2025-06-03": 708,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -686,19 +686,19 @@
     "url": "http://shikshaskills.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/shikshaskills.org.in.ico",
     "slug": "shiksha-skills-institute",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 2378,
-    "timeDay": 2908,
-    "timeWeek": 2842,
-    "timeMonth": 2896,
+    "timeDay": 2732,
+    "timeWeek": 2800,
+    "timeMonth": 2881,
     "timeYear": 2378,
     "dailyMinutesDown": {
-      "2025-06-03": 21,
+      "2025-06-03": 29,
       "2025-05-28": 17
     }
   }
