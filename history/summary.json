@@ -77,7 +77,7 @@
     "time": 749,
     "timeDay": 667,
     "timeWeek": 588,
-    "timeMonth": 771,
+    "timeMonth": 773,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2025-06-03": 276,
@@ -160,19 +160,19 @@
     "url": "https://shriharicharitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/shriharicharitra.com.ico",
     "slug": "shrihari-charitra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 697,
-    "timeWeek": 729,
-    "timeMonth": 728,
+    "time": 575,
+    "timeDay": 583,
+    "timeWeek": 696,
+    "timeMonth": 720,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-06-04": 1
+      "2025-06-04": 17
     }
   },
   {
@@ -348,7 +348,7 @@
     "timeMonth": 1476,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2025-06-04": 1315,
+      "2025-06-04": 1331,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
