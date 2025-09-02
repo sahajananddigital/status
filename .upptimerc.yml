@@ -7,10 +7,6 @@ sites:
     url: https://sahajananddigital.in
   - name: Aquapex Ro
     url: https://aquapexro.in
-  - name: Evon Stone Ceramics
-    url: https://evonceramics.com
-  - name: Evon Stone
-    url: https://evonstone.com
   - name: Sahajanand Projects
     url: https://projects.sahajananddigital.in
   - name: Vedik Gurukulam
@@ -19,16 +15,8 @@ sites:
     url: https://siddhatvaaccountants.com
   - name: Shrihari Charitra
     url: https://shriharicharitra.com
-  - name: Harshi Impex
-    url: https://www.harshiimpex.com
-  - name: Nano Polycoat
-    url: https://nanopolycoat.com
   - name: Harikrusna International
     url: https://shreeharikrushnaintl.com
-  - name: codecurateurs.com ( Achal )
-    url: https://codecurateurs.com
-  - name: Advance Dye Chem
-    url: https://advancedyechem.com
   - name: LeosonPharma.com ( WalArt Pharma )
     url: https://leosonpharma.com
   - name: walartpharma.in ( WalArt Pharma )
@@ -43,6 +31,8 @@ sites:
     url: https://prashamindustries.com
   - name: Shiksha Skills Institute
     url: http://shikshaskills.org.in
+  - name: Saurya Technology
+    url: https://sauryatechnology.com
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
