@@ -385,9 +385,9 @@
     "url": "https://sauryatechnology.com",
     "icon": "https://icons.duckduckgo.com/ip3/sauryatechnology.com.ico",
     "slug": "saurya-technology",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.12%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -397,7 +397,7 @@
     "timeMonth": 3287,
     "timeYear": 3287,
     "dailyMinutesDown": {
-      "2025-09-24": 27
+      "2025-09-24": 28
     }
   }
 ]
