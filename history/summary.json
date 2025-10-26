@@ -65,18 +65,19 @@
     "url": "https://vedikgurukulam.org",
     "icon": "https://icons.duckduckgo.com/ip3/vedikgurukulam.org.ico",
     "slug": "vedik-gurukulam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 810,
+    "time": 811,
     "timeDay": 611,
     "timeWeek": 758,
     "timeMonth": 888,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2025-10-26": 0,
       "2025-09-01": 30
     }
   },
@@ -317,12 +318,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 198,
     "timeWeek": 237,
     "timeMonth": 203,
-    "timeYear": 901,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   },
   {
