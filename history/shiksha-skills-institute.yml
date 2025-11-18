@@ -1,7 +1,7 @@
 url: http://shikshaskills.org.in
-status: up
-code: 200
-responseTime: 2808
-lastUpdated: 2025-11-18T12:47:49.463Z
+status: down
+code: 500
+responseTime: 34
+lastUpdated: 2025-11-18T13:22:33.193Z
 startTime: 2024-09-28T16:43:48.943Z
 generator: Upptime <https://github.com/upptime/upptime>
