@@ -112,19 +112,19 @@
     "url": "https://shriharicharitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/shriharicharitra.com.ico",
     "slug": "shrihari-charitra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.93%",
     "time": 625,
-    "timeDay": 574,
-    "timeWeek": 595,
-    "timeMonth": 636,
+    "timeDay": 584,
+    "timeWeek": 596,
+    "timeMonth": 635,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-12-03": 35,
+      "2025-12-03": 42,
       "2025-11-30": 19,
       "2025-11-18": 159,
       "2025-09-01": 27,
@@ -139,9 +139,9 @@
     "slug": "harikrusna-international",
     "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.89%",
     "time": 824,
     "timeDay": 5438,
@@ -149,7 +149,6 @@
     "timeMonth": 816,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-12-03": 13,
       "2025-11-18": 186,
       "2025-09-01": 27,
       "2025-05-18": 16,
@@ -372,7 +371,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-12-03": 613
+      "2025-12-03": 620
     }
   }
 ]
