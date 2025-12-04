@@ -31,7 +31,8 @@ sites:
     url: http://shikshaskills.org.in
   - name: Saurya Technology
     url: https://sauryatechnology.com
-  - name: AksharLife Science # server1.sahajananddigital.in
+  # server1.sahajananddigital.in
+  - name: AksharLife Science
     url: https://www.aksharlifescience.com
     
 assignees: # Users to assign downtime issues (optional)
