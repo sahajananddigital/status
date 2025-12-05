@@ -31,9 +31,12 @@ sites:
     url: http://shikshaskills.org.in
   - name: Saurya Technology
     url: https://sauryatechnology.com
-  # server1.sahajananddigital.in
+  # server1.sahajananddigital.in ( All Domains Below are added this dns )
   - name: AksharLife Science
     url: https://www.aksharlifescience.com
+  - name: BizzyBites
+    url: https://bizzybites.in
+    
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
