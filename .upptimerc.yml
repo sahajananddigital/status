@@ -33,7 +33,7 @@ sites:
     url: https://sauryatechnology.com
   # server1.sahajananddigital.in ( All Domains Below are added this dns )
   - name: AksharLife Science
-    url: https://www.aksharlifescience.com
+    url: https://aksharlifescience.com
   - name: BizzyBites
     url: https://bizzybites.in
     
