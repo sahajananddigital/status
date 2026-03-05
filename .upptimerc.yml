@@ -38,6 +38,9 @@ sites:
     url: https://aksharlifescience.com
   - name: BizzyBites
     url: https://bizzybites.in
+  - name: Sidhhatva Accountants LLP
+    #url: https://siddhatvaaccountants.com
+    url: https://saglobus.com
     
     
 assignees: # Users to assign downtime issues (optional)
