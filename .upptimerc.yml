@@ -33,6 +33,8 @@ sites:
     url: http://shikshaskills.org.in
   - name: Saurya Technology
     url: https://sauryatechnology.com
+  - name: Marvel Impex
+    url: https://marvelimpexindia.com/
   # server1.sahajananddigital.in ( All Domains Below are added this dns )
   - name: AksharLife Science
     url: https://aksharlifescience.com
