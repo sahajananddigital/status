@@ -19,6 +19,8 @@ sites:
     url: https://shriharicharitra.com
   - name: Harikrusna International
     url: https://shreeharikrushnaintl.com
+  - name: Livohill.com ( Livohill Pharma )
+    url: https://livohil.com/
   - name: LeosonPharma.com ( WalArt Pharma )
     url: https://leosonpharma.com
   - name: megmahealth.com ( WalArt Pharma )
@@ -43,7 +45,11 @@ sites:
   - name: Sidhhatva Accountants LLP
     #url: https://siddhatvaaccountants.com
     url: https://saglobus.com
-    
+  - name: Royal Sahara LLC
+    url: https://royalsaharallc.com
+
+#old Website
+# naoploycoat.com, Finepichtech.com, 
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
