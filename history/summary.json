@@ -388,17 +388,17 @@
     "url": "https://aksharlifescience.com",
     "icon": "https://icons.duckduckgo.com/ip3/aksharlifescience.com.ico",
     "slug": "akshar-life-science",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "98.70%",
-    "time": 2126,
-    "timeDay": 18385,
-    "timeWeek": 8951,
-    "timeMonth": 8811,
-    "timeYear": 2126,
+    "status": "up",
+    "uptime": "98.61%",
+    "uptimeDay": "82.16%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "98.61%",
+    "time": 2150,
+    "timeDay": 14640,
+    "timeWeek": 8751,
+    "timeMonth": 8777,
+    "timeYear": 2150,
     "dailyMinutesDown": {
       "2025-12-05": 324,
       "2025-12-04": 1440,
@@ -410,7 +410,7 @@
       "2026-05-28": 258,
       "2026-05-31": 113,
       "2026-06-02": 224,
-      "2026-06-12": 1
+      "2026-06-12": 257
     }
   },
   {
