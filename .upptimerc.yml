@@ -40,8 +40,6 @@ sites:
   # server1.sahajananddigital.in ( All Domains Below are added this dns )
   - name: AksharLife Science
     url: https://aksharlifescience.com
-  - name: BizzyBites
-    url: https://bizzybites.in
   - name: Sidhhatva Accountants LLP
     #url: https://siddhatvaaccountants.com
     url: https://saglobus.com
@@ -49,7 +47,7 @@ sites:
     url: https://royalsaharallc.com
 
 #old Website
-# naoploycoat.com, Finepichtech.com, 
+# naoploycoat.com, Finepichtech.com, bizzybites.in
     
 assignees: # Users to assign downtime issues (optional)
   - vanpariyar
